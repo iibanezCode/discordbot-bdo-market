@@ -1,0 +1,70 @@
+{
+  "category": "guru",
+  "imperialBoxes": [
+    {
+      "itemKey": 9635,
+      "amountPerBox":33,
+      "pricePerBox": 800000
+    },
+    {
+      "itemKey":9634,
+      "amountPerBox": 21,
+      "pricePerBox": 800000
+    },
+    {
+      "itemKey":9477,
+      "amountPerBox": 21,
+      "pricePerBox": 800000
+    },
+    {
+      "itemKey":9603,
+      "amountPerBox": 21,
+      "pricePerBox": 800000
+    },
+    {
+      "itemKey":9609,
+      "amountPerBox": 18,
+      "pricePerBox": 800000
+    },
+    {
+      "itemKey":9637,
+      "amountPerBox": 18,
+      "pricePerBox": 800000
+    },
+    {
+      "itemKey":9631,
+      "amountPerBox": 18,
+      "pricePerBox": 800000
+    },
+    {
+      "itemKey":9632,
+      "amountPerBox": 27,
+      "pricePerBox": 800000
+    },
+    {
+      "itemKey":9605,
+      "amountPerBox": 18,
+      "pricePerBox": 800000
+    },
+    {
+      "itemKey":9601,
+      "amountPerBox": 24,
+      "pricePerBox": 800000
+    },
+    {
+      "itemKey":9607,
+      "amountPerBox": 15,
+      "pricePerBox": 800000
+    },
+    {
+      "itemKey":9469,
+      "amountPerBox": 12,
+      "pricePerBox": 800000
+    },
+    {
+      "itemKey":9479,
+      "amountPerBox": 12,
+      "pricePerBox": 800000
+    }
+  ]
+}

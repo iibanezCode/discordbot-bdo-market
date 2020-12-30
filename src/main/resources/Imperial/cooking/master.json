@@ -1,0 +1,90 @@
+{
+  "category": "master",
+  "imperialBoxes": [
+    {
+      "itemKey": 9263,
+      "pricePerBox": 550000,
+      "amountPerBox": 18
+    },
+    {
+      "itemKey": 9203,
+      "pricePerBox": 550000,
+      "amountPerBox": 18
+    },
+    {
+      "itemKey": 9209,
+      "pricePerBox": 550000,
+      "amountPerBox": 27
+    },
+    {
+      "itemKey": 9207,
+      "pricePerBox": 550000,
+      "amountPerBox": 18
+    },
+    {
+      "itemKey": 9490,
+      "pricePerBox": 550000,
+      "amountPerBox": 18
+    },
+    {
+      "itemKey": 9426,
+      "pricePerBox": 550000,
+      "amountPerBox": 18
+    },
+    {
+      "itemKey": 9459,
+      "pricePerBox": 550000,
+      "amountPerBox": 18
+    },
+    {
+      "itemKey": 9266,
+      "pricePerBox": 550000,
+      "amountPerBox": 18
+    },
+    {
+      "itemKey": 9425,
+      "pricePerBox": 550000,
+      "amountPerBox": 18
+    },
+    {
+      "itemKey": 9404,
+      "pricePerBox": 550000,
+      "amountPerBox": 18
+    },
+    {
+      "itemKey": 9318,
+      "pricePerBox": 550000,
+      "amountPerBox": 18
+    },
+    {
+      "itemKey": 9463,
+      "pricePerBox": 550000,
+      "amountPerBox": 15
+    },
+    {
+      "itemKey": 9415,
+      "pricePerBox": 550000,
+      "amountPerBox": 15
+    },
+    {
+      "itemKey": 9267,
+      "pricePerBox": 550000,
+      "amountPerBox": 15
+    },
+    {
+      "itemKey": 9422,
+      "pricePerBox": 550000,
+      "amountPerBox": 15
+    },
+    {
+      "itemKey": 9486,
+      "pricePerBox": 550000,
+      "amountPerBox": 15
+    },
+    {
+      "itemKey": 9496,
+      "pricePerBox": 550000,
+      "amountPerBox": 15
+    }
+  ]
+}
