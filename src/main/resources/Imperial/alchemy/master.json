@@ -1,0 +1,50 @@
+{
+  "category": "master",
+  "imperialBoxes": [
+    {
+      "itemKey": 684,
+      "pricePerBox": 550000,
+      "amountPerBox": 27
+    },
+    {
+      "itemKey": 696,
+      "pricePerBox": 550000,
+      "amountPerBox": 15
+    },
+    {
+      "itemKey": 674,
+      "pricePerBox": 550000,
+      "amountPerBox": 12
+    },
+    {
+      "itemKey": 782,
+      "pricePerBox": 550000,
+      "amountPerBox": 12
+    },
+    {
+      "itemKey": 761,
+      "pricePerBox": 550000,
+      "amountPerBox": 12
+    },
+    {
+      "itemKey": 680,
+      "pricePerBox": 550000,
+      "amountPerBox": 9
+    },
+    {
+      "itemKey": 718,
+      "pricePerBox": 550000,
+      "amountPerBox": 9
+    },
+    {
+      "itemKey": 1152,
+      "pricePerBox": 550000,
+      "amountPerBox": 9
+    },
+    {
+      "itemKey": 1155,
+      "pricePerBox": 550000,
+      "amountPerBox": 9
+    }
+  ]
+}

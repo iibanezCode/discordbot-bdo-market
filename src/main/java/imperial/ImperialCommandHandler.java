@@ -33,9 +33,7 @@ public class ImperialCommandHandler implements MessageCreateListener {
         if (event.getMessage().getContent().contains("_clear")){
             try {
                 event.getChannel().getMessages(50).get().deleteAll();
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            } catch (ExecutionException e) {
+            } catch (InterruptedException | ExecutionException e) {
                 e.printStackTrace();
             }
         }
@@ -54,7 +52,6 @@ public class ImperialCommandHandler implements MessageCreateListener {
                             .forCategory(args[1])
                             .forLevel(args[2]);
 
-            System.out.println("HIAUSGFIAGSFIGAIF");
             for (String arg : args) {
                 if (arg.contains("cp.")) {
                     imperialRequestEventBuilder = imperialRequestEventBuilder.maximumCPIs(arg.replace("cp.", "").trim());
