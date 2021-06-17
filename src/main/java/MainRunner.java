@@ -10,7 +10,6 @@ public class MainRunner {
                 .setToken(args[0])
                 .login().join();
 
-        // Add a listener which answers with "Pong!" if someone writes "!ping"
         api.addMessageCreateListener(new ImperialCommandHandler(api.getChannelsByName("market-bot")));
     }
 
